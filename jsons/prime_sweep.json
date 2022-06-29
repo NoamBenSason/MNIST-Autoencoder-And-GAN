@@ -1,0 +1,154 @@
+{
+    "_wandb": {
+        "desc": null,
+        "value": {
+            "t": {
+                "1": [
+                    1,
+                    5
+                ],
+                "2": [
+                    1,
+                    5
+                ],
+                "3": [
+                    1,
+                    2,
+                    19
+                ],
+                "4": "3.8.10",
+                "5": "0.12.9",
+                "8": [
+                    3,
+                    5
+                ]
+            },
+            "framework": "torch",
+            "start_time": 1641327344,
+            "cli_version": "0.12.9",
+            "is_jupyter_run": false,
+            "python_version": "3.8.10",
+            "is_kaggle_kernel": false
+        }
+    },
+    "cnn_dim": {
+        "desc": null,
+        "value": 11875
+    },
+    "epoch_num": {
+        "desc": null,
+        "value": 6
+    },
+    "latent_dim": {
+        "desc": null,
+        "value": 8
+    },
+    "model_name": {
+        "desc": null,
+        "value": "AE"
+    },
+    "model_type": {
+        "desc": null,
+        "value": 1
+    },
+    "fc_layers_num": {
+        "desc": null,
+        "value": 4
+    },
+    "learning_rate": {
+        "desc": null,
+        "value": 0.0009447791661671204
+    },
+    "conv_layers_num": {
+        "desc": null,
+        "value": 2
+    },
+    "cnn_final_out_dim": {
+        "desc": null,
+        "value": 19
+    },
+    "cnn_kernel_size_0": {
+        "desc": null,
+        "value": 5
+    },
+    "cnn_kernel_size_1": {
+        "desc": null,
+        "value": 4
+    },
+    "cnn_kernel_size_2": {
+        "desc": null,
+        "value": 5
+    },
+    "cnn_kernel_size_3": {
+        "desc": null,
+        "value": 5
+    },
+    "cnn_kernel_size_4": {
+        "desc": null,
+        "value": 4
+    },
+    "cnn_kernel_size_5": {
+        "desc": null,
+        "value": 5
+    },
+    "cnn_kernel_size_6": {
+        "desc": null,
+        "value": 5
+    },
+    "fc_out_features_0": {
+        "desc": null,
+        "value": 195
+    },
+    "fc_out_features_1": {
+        "desc": null,
+        "value": 137
+    },
+    "fc_out_features_2": {
+        "desc": null,
+        "value": 132
+    },
+    "fc_out_features_3": {
+        "desc": null,
+        "value": 116
+    },
+    "fc_out_features_4": {
+        "desc": null,
+        "value": 64
+    },
+    "fc_out_features_5": {
+        "desc": null,
+        "value": 43
+    },
+    "fc_out_features_6": {
+        "desc": null,
+        "value": 26
+    },
+    "cnn_out_channels_0": {
+        "desc": null,
+        "value": 10
+    },
+    "cnn_out_channels_1": {
+        "desc": null,
+        "value": 19
+    },
+    "cnn_out_channels_2": {
+        "desc": null,
+        "value": 16
+    },
+    "cnn_out_channels_3": {
+        "desc": null,
+        "value": 20
+    },
+    "cnn_out_channels_4": {
+        "desc": null,
+        "value": 16
+    },
+    "cnn_out_channels_5": {
+        "desc": null,
+        "value": 12
+    },
+    "cnn_out_channels_6": {
+        "desc": null,
+        "value": 10
+    }
+}

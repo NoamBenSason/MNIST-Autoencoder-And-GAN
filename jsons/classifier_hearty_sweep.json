@@ -1,0 +1,81 @@
+{
+    "grad": {
+        "desc": null,
+        "value": 0
+    },
+    "_wandb": {
+        "desc": null,
+        "value": {
+            "t": {
+                "1": [
+                    1,
+                    5
+                ],
+                "2": [
+                    1,
+                    5
+                ],
+                "3": [
+                    1,
+                    2
+                ],
+                "4": "3.7.11",
+                "5": "0.12.9",
+                "8": [
+                    3,
+                    5
+                ]
+            },
+            "framework": "torch",
+            "start_time": 1641647643,
+            "cli_version": "0.12.9",
+            "is_jupyter_run": false,
+            "python_version": "3.7.11",
+            "is_kaggle_kernel": false
+        }
+    },
+    "epoch_num": {
+        "desc": null,
+        "value": 7
+    },
+    "optimizer": {
+        "desc": null,
+        "value": 1
+    },
+    "activation": {
+        "desc": null,
+        "value": 0
+    },
+    "model_name": {
+        "desc": null,
+        "value": "DigitClassifier"
+    },
+    "model_type": {
+        "desc": null,
+        "value": 2
+    },
+    "encoder_index": {
+        "desc": null,
+        "value": 4
+    },
+    "fc_layers_num": {
+        "desc": null,
+        "value": 2
+    },
+    "learning_rate": {
+        "desc": null,
+        "value": 0.0023199149498247503
+    },
+    "fc_out_features_0": {
+        "desc": null,
+        "value": 25
+    },
+    "fc_out_features_1": {
+        "desc": null,
+        "value": 24
+    },
+    "fc_out_features_2": {
+        "desc": null,
+        "value": 22
+    }
+}
